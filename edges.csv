@@ -1,0 +1,13 @@
+from,to,weight
+JannikZink,Viktoria-ElisabethBauer,2
+Viktoria-ElisabethBauer,JannikZink,2
+JannikZink,KellyUffelmann,1
+KellyUffelmann,JannikZink,1
+JannikZink,BirgitBauer,3
+BirgitBauer,JannikZink,3
+KellyUffelmann,Viktoria-ElisabethBauer,2
+Viktoria-ElisabethBauer,KellyUffelmann,2
+Viktoria-ElisabethBauer,BirgitBauer,3
+BirgitBauer,Viktoria-ElisabethBauer,3 
+KellyUffelmann,BirgitBauer,1 
+BirgitBauer,KellyUffelmann,1
